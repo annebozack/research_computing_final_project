@@ -23,3 +23,5 @@ The objective of this project is to investigate the association between groundwa
 * log(mean inorganic arsenic concentration) was positively associated with pH: $\rho$=0.60; P=2.314x10-06
 
 <img align='left' src="oregon_map.png" width="500"/>
+
+<img align='left' src="InAsReg.png" width="500"/>
